@@ -1,8 +1,8 @@
-- [Startseite](https://ibn3abad.github.io/A_Zakat_Calculator/)
+- [Startseite](https://ibn3abad.github.io/)
 
-  - [terms-conditions](https://ibn3abad.github.io/A_Zakat_Calculator/terms-conditions)
+  - [terms-conditions](https://ibn3abad.github.io/terms-conditions)
 
-  - [privacy-policy](https://ibn3abad.github.io/A_Zakat_Calculator/privacy-policy)
+  - [privacy-policy](https://ibn3abad.github.io/privacy-policy)
 
 # **Zakat Calculator**
 
