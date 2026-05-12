@@ -1,0 +1,12 @@
+theme: minima
+
+# Include app-ads.txt so it's served correctly
+include:
+  - app-ads.txt
+  - robots.txt
+  - sitemap.xml
+
+# Set correct content type for text files
+webrick:
+  headers:
+    Content-Type: "text/plain; charset=utf-8"
